@@ -24,4 +24,4 @@ After downloading, you can run the game vie any Java IDEA.
 
 ## Media
 
-<img src="Images/level_1.png" width = "230">      <img src="Images/level_2.png" width = "230">      <img src="Images/level_3.png" width = "230">      <img src="Images/level_4.png" width = "230">
+<img src="https://user-images.githubusercontent.com/72104254/99302848-a24b2980-2858-11eb-9cd1-246d93504ea3.png" width = "230">      <img src="https://user-images.githubusercontent.com/72104254/99302851-a4ad8380-2858-11eb-9d9b-72d95df03ee8.png" width = "230">      <img src="https://user-images.githubusercontent.com/72104254/99302858-a8410a80-2858-11eb-8fb2-4da829b58cbe.png" width = "230">      <img src="https://user-images.githubusercontent.com/72104254/99302868-ac6d2800-2858-11eb-85c2-62f1ef2d4f27.png" width = "230">

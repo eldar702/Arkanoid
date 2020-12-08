@@ -1,5 +1,4 @@
-/**@author Eldar Shlomi.
- * id 205616634.*/
+
 import gamesetting.AnimationRunner;
 import gamesetting.GameFlow;
 import interfaces.LevelInformation;
